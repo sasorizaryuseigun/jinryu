@@ -1,0 +1,37 @@
+        .version{
+            margin-left:2ex;
+            font-size:1ex;
+            vertical-align: middle;
+        }
+        .site-title {
+            margin:5px 10px;
+            font-size:3ex;
+        }
+/*<?php if ($_SESSION["id"]) { ?>*/
+        .logout {
+            margin-right:15px;
+        }
+        .flex{
+            display:flex;
+        }
+        .margin-right{
+            margin:0 0 0 auto;
+        }
+        .users {
+            font-size:2ex;
+            margin-top:0;
+            margin-bottom:0;
+            padding-top: 0.75ex;
+            padding-bottom: 0.5ex;
+            margin-right:15px;
+        }
+        .navbar-button{
+            margin-right:10px;
+        }
+        .nav-main{
+            margin-left:10px;
+        }
+        .nav-logout{
+            display:none;
+        }
+/*<?php } ?>*/
